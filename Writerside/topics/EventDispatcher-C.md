@@ -8,7 +8,7 @@
 * 易于测试 ： 所有对事件响应的代码模块可进行单独测试，只需要模拟事件的触发即可
 
 以下是一个个人项目中的代码实现：
-<code-block lang="c#" title="EventDispatcher.cs" collapsed-title-line-number="16" collapsible="true">
+<code-block lang="c#" title="EventDispatcher.cs" collapsed-title-line-number="16" collapsible="true"><![CDATA[
 
     #region Editor
     
@@ -372,7 +372,8 @@
             #endregion
         }
     }
-</code-block>
+
+]]></code-block>
 
 同时为了方便名称的管理，创建了一个常量集，用以存储事件的名称，以下为部分示例：
 ```C#
