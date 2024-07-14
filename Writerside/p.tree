@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="p"
+                 name="Portfolio"
+                 start-page="main-page.md">
+
+    <toc-element topic="main-page.md">
+        <toc-element topic="Design-related-portfolio-C.md"/>
+        <toc-element topic="Programming-related-portfolio-C.md"/>
+            <toc-element topic="EventDispatcher-C.md"/>
+        <toc-element topic="Design-related-portfolio-E.md"/>
+        <toc-element topic="Programming-related-portfolio-E.md"/>
+    </toc-element>
+</instance-profile>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="2c834373">
+        <description>Created after removal of "Starter" from Portfolio</description>
+        <accepts>Starter.html</accepts>
+    </rule>
+    <rule id="7f81ffbd">
+        <description>Created after removal of "Starter" from Portfolio</description>
+        <accepts>Starter.html</accepts>
+    </rule>
+    <rule id="1be813f8">
+        <description>Created after removal of "Starter" from Portfolio</description>
+        <accepts>Starter.html</accepts>
+    </rule>
+    <rule id="509f47a7">
+        <description>Created after removal of "Overview" from Portfolio</description>
+        <accepts>Overview.html</accepts>
+    </rule>
+    <rule id="43a378ed">
+        <description>Created after removal of "Section Starting Page" from Portfolio</description>
+        <accepts>Section-Starting-Page.html</accepts>
+    </rule>
+</rules>
