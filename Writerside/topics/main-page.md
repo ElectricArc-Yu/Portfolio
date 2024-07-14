@@ -1,10 +1,10 @@
 # Main Page
 <tabs group="Language">
     <tab id="CN" title="中文" group-key="CN">
-        <procedure title="策划相关" id="DRP_C" >
+        <procedure title="策划相关 WIP" id="DRP_C" >
             <a href="Design-related-portfolio-C.md">策划相关作品集 中文</a>
         </procedure>
-        <procedure title="程序相关" id="PRP_C" >
+        <procedure title="程序相关 WIP" id="PRP_C" >
             <a href="Programming-related-portfolio-C.md">程序相关作品集 中文</a>
         </procedure>
     </tab>

@@ -26,4 +26,8 @@
         <description>Created after removal of "Section Starting Page" from Portfolio</description>
         <accepts>Section-Starting-Page.html</accepts>
     </rule>
+    <rule id="28d90d94">
+        <description>Created after removal of "Tutorial" from Portfolio</description>
+        <accepts>Tutorial.html</accepts>
+    </rule>
 </rules>
