@@ -1,7 +1,7 @@
 # 策划相关作品集
 
 <procedure>
-    <p>Final fantasy XIV PvP 系统策划案</p>
+    <p>个人策划练习 - 参考最终幻想14</p>
     <img src="FF14PvPSDD.png" alt="System design document screenshot" />
     <!-- <a href="FF14PvPSDD-C.md">详细内容及分析思路 当前正在完善中</a> -->
     <p>下载文档 ： <resource src="../downloadable/ファイナルファンタジーXIVフロントライン新ルール企画書.pdf"></resource></p>
