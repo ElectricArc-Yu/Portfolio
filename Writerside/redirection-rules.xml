@@ -30,4 +30,8 @@
         <description>Created after removal of "Tutorial" from Portfolio</description>
         <accepts>Tutorial.html</accepts>
     </rule>
+    <rule id="313cb5c7">
+        <description>Created after removal of "Tutorial" from Portfolio</description>
+        <accepts>Tutorial.html</accepts>
+    </rule>
 </rules>
