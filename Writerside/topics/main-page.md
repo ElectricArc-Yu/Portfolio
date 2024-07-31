@@ -1,6 +1,5 @@
-# Main Page
+# 于陈浩然的作品集
 
-<tip>部分页面逐步完善中，现可用：<p></p>策划相关作品集 中文 <p></p> Design Related Portfolio English Version</tip>
 
 <tabs group="Language">
     <tab id="CN" title="中文" group-key="CN">
@@ -11,7 +10,7 @@
             <a href="Programming-related-portfolio-C.md">程序相关作品集 中文  (WIP)</a>
         </procedure>
     </tab>
-    <tab id="EN" title="English WIP" group-key="EN">
+    <tab id="EN" title="English" group-key="EN">
         <procedure title="Design Related" id="DRP_E" >
                 <a href="Design-related-portfolio-E.md">Design Related Portfolio English Version</a>
         </procedure>
