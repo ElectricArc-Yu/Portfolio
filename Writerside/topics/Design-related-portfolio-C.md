@@ -6,7 +6,7 @@
     <p>下载文档 ： <resource src="../downloadable/ファイナルファンタジーXIVフロントライン新ルール企画書.pdf"></resource></p>
 </procedure>
 
-<procedure title="非法组装 (进行中，仅包括进度展示）" collapsible="true" default-state="collapsed">
+<procedure title="非法组装 (进行中，仅包括进度展示）" collapsible="true" default-state="expanded">
         <tip>该项目正在进行中</tip>
         <p>3D 工厂建设类游戏，我在项目中担任主策划与主程序，处理程序、策划相关工作</p>
         <img src="IllagelAssemblyLogo.PNG"  alt=""/>
@@ -18,6 +18,7 @@
         <img src="IA_04.png" alt=""/>
         <p>UI进度展示</p>
         <img src="IA_05.png" alt=""/>
+        <a href="https://github.com/ElectricArc-Yu/GD10Final/releases">下载可玩版本</a>
 </procedure>
 
 <procedure title="VR捞金鱼" collapsible="true" default-state="expanded">

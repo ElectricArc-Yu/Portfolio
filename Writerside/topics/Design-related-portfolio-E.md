@@ -6,18 +6,19 @@
     <p>Download document: <resource src="../downloadable/ファイナルファンタジーXIVフロントライン新ルール企画書.pdf"></resource></p>
 </procedure>
 
-<procedure title="Illegal Assembly (Work In Progress, Only Includes Progress Display)" collapsible="true" default-state="collapsed">
-        <tip>Work In Progress</tip>
-        <p>3D Factorio-like game, I as the lead designer and Lead programmer, handle design and program related work</p>
-        <img src="IllagelAssemblyLogo.PNG"  alt=""/>
-        <p>Display in Editor</p>
-        <img src="IA_01.png" alt=""/>
-        <img src="IA_02.png" alt=""/>
-        <p>Project Progress</p>
-        <img src="IA_03.png" alt=""/>
-        <img src="IA_04.png" alt=""/>
-        <p>UI Progress</p>
-        <img src="IA_05.png" alt=""/>
+<procedure title="Illegal Assembly (Work In Progress, Only Includes Progress Display)" collapsible="true" default-state="expanded">
+    <tip>Still Work In Progress</tip>
+    <p>3D Factorio-like game, I as the lead designer and Lead programmer, handle design and program related work</p>
+    <img src="IllagelAssemblyLogo.PNG"  alt=""/>
+    <p>Display in Editor</p>
+    <img src="IA_01.png" alt=""/>
+    <img src="IA_02.png" alt=""/>
+    <p>Project Progress</p>
+    <img src="IA_03.png" alt=""/>
+    <img src="IA_04.png" alt=""/>
+    <p>UI Progress</p>
+    <img src="IA_05.png" alt=""/>
+    <a href="https://github.com/ElectricArc-Yu/GD10Final/releases">Download Playable Version</a>
 </procedure>
 
 <procedure title="VR Goldfish Catching" collapsible="true" default-state="expanded">
