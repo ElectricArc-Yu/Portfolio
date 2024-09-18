@@ -1,5 +1,7 @@
 # 于陈浩然策划相关作品集
 <tip><p>策划作品集</p></tip>
+
+[//]: # (<note><a href="游戏经验.md">跳转游戏经验</a></note>)
 <procedure title="个人策划练习 - 参考最终幻想14" collapsible="true" default-state="expanded">
     <img src="FF14PvPSDD.png" alt="System design document screenshot" />
     <!-- <a href="FF14PvPSDD-C.md">详细内容及分析思路 当前正在完善中</a> -->
@@ -7,7 +9,7 @@
 </procedure>
 
 <procedure title="非法组装 (进行中，仅包括进度展示）" collapsible="true" default-state="expanded">
-        <tip>该项目正在进行中</tip>
+        <tip>该项目正在持续优化中</tip>
         <p>3D 工厂建设类游戏，我在项目中担任主策划与主程序，处理程序、策划相关工作</p>
         <img src="IllagelAssemblyLogo.PNG"  alt=""/>
         <p>编辑器内展示</p>

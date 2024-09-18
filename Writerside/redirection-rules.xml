@@ -34,4 +34,8 @@
         <description>Created after removal of "Tutorial" from Portfolio</description>
         <accepts>Tutorial.html</accepts>
     </rule>
+    <rule id="14759b5e">
+        <description>Created after removal of "游戏经历" from Yu Chenhaoran's Portfolio</description>
+        <accepts>游戏经历.html</accepts>
+    </rule>
 </rules>
