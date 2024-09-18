@@ -38,4 +38,8 @@
         <description>Created after removal of "游戏经历" from Yu Chenhaoran's Portfolio</description>
         <accepts>游戏经历.html</accepts>
     </rule>
+    <rule id="41278a3a">
+        <description>Created after removal of "游戏经验" from Yu Chenhaoran's Portfolio</description>
+        <accepts>游戏经验.html</accepts>
+    </rule>
 </rules>
