@@ -26,7 +26,6 @@
 </procedure>
 
 <procedure title="非法组装" collapsible="true" default-state="expanded">
-        <tip>该项目正在持续优化中</tip>
         <p>该项⽬为⼀款使⽤Unreal5引擎制作的俯视⻆3D⼯⼚建设游戏，游戏中玩家需要实现各种产品的⾃动化处理，建造⼤型⼯⼚并持续优化⽣产线，完成配⽅难度不断增⾼的⾃动化⽣产。我在项目中担任主策划与主程序</p>
         主要工作内容：
         <list>

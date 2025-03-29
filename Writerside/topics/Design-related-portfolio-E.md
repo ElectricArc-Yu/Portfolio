@@ -3,7 +3,15 @@
 <procedure title="System Design Analysis: Field Operations in MMORPGs" collapsible="true" default-state="expanded">
     <note>
     <p>Abstract</p>
-    <p>This article aims to explore the large-scale exploration gameplay in Final Fantasy XIV, focusing on the design concepts and implementation mechanisms of the Cloud Crown Islands, Forbidden Land Eureka, and Queen's Blessing series. By comparing and analyzing the gameplay design, level design, reward mechanisms, and endgame content design of these three series, we summarize their experiences and lessons in special scene exploration gameplay. The research results show that such dungeons not only enrich players' gaming experience and promote social interaction among players but also maintain the long-term attractiveness of gameplay through continuous content updates and optimizations. The conclusions of this article can provide references for similar gameplay design in other MMORPGs.</p>
+    <p>This article aims to explore the large-scale exploration gameplay in Final Fantasy XIV, 
+focusing on the design concepts and implementation mechanisms of the Diadem, 
+Forbidden Land Eureka, and Save the Queen. By comparing and analyzing the gameplay design, 
+level design, reward mechanisms, and endgame content design of these three series, 
+I summarize their experiences and lessons in special scene exploration gameplay. 
+The research results show that such contents not only enrich players' gaming experience and promote 
+social interaction among players but also maintain the long-term attractiveness of gameplay through 
+continuous content updates and optimizations. The conclusions of this article can provide references 
+for similar gameplay design in other MMORPGs.</p>
     <p>Keyword: Field Operations Design; System Logic Design; Reward Mechanism</p>
     </note>
     <p>Download document: <resource src="../downloadable/MMORPG中的特殊场景探索玩法设计.pdf"></resource></p>
@@ -22,9 +30,15 @@
     <p>Download document: <resource src="../downloadable/ファイナルファンタジーXIVフロントライン新ルール企画書.pdf"></resource></p>
 </procedure>
 
-<procedure title="Illegal Assembly (Work In Progress, Only Includes Progress Display)" collapsible="true" default-state="expanded">
-    <tip>Still Work In Progress</tip>
-    <p>3D Factorio-like game, I as the lead designer and Lead programmer, handle design and program related work</p>
+<procedure title="Illegal Assembly" collapsible="true" default-state="expanded">
+    <p>A top-down 3D factory-building game developed in Unreal Engine 5. Players automate production lines, construct massive factories, and optimize workflows to complete increasingly complex recipes.</p>
+    <p>Key Contributions:</p>
+    <list>
+    <li>Done the overall game design and implementation, including core gameplay mechanics, systems, and UX design. Delivered public presentations on the project.</li>
+    <li>Broke down project tasks, collaborated with PMs to manage timelines, controlled scope, and provided regular progress updates.</li>
+    <li>Designed and implemented the main game framework, gameplay features, and UI APIs.</li>
+    <li>Established an efficient asset integration pipeline tailored to the project’s needs.</li>
+    </list>
     <img src="IllagelAssemblyLogo.PNG"  alt=""/>
     <p>Display in Editor</p>
     <img src="IA_01.png" alt=""/>
@@ -34,6 +48,8 @@
     <img src="IA_04.png" alt=""/>
     <p>UI Progress</p>
     <img src="IA_05.png" alt=""/>
+    <p>Part of Tutorial Display</p>
+    <img src="IA_08.png" alt=""/>
     <a href="https://github.com/ElectricArc-Yu/GD10Final/releases">Download Playable Version</a>
 </procedure>
 
