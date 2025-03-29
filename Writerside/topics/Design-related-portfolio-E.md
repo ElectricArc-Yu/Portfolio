@@ -1,5 +1,21 @@
-# Yu Chenhaoran's Design related portfolio
-<tip><p>Design portfolio</p></tip>
+# Yu Chenhaoran's Designer portfolio
+
+<procedure title="System Design Analysis: Field Operations in MMORPGs" collapsible="true" default-state="expanded">
+    <note>
+    <p>Abstract</p>
+    <p>This article aims to explore the large-scale exploration gameplay in Final Fantasy XIV, focusing on the design concepts and implementation mechanisms of the Cloud Crown Islands, Forbidden Land Eureka, and Queen's Blessing series. By comparing and analyzing the gameplay design, level design, reward mechanisms, and endgame content design of these three series, we summarize their experiences and lessons in special scene exploration gameplay. The research results show that such dungeons not only enrich players' gaming experience and promote social interaction among players but also maintain the long-term attractiveness of gameplay through continuous content updates and optimizations. The conclusions of this article can provide references for similar gameplay design in other MMORPGs.</p>
+    <p>Keyword: Field Operations Design; System Logic Design; Reward Mechanism</p>
+    </note>
+    <p>Download document: <resource src="../downloadable/MMORPG中的特殊场景探索玩法设计.pdf"></resource></p>
+</procedure>
+
+
+<procedure title="Personal Design Exercise - FF14 Mail System Analysis" collapsible="true" default-state="expanded">
+    <img src="MailSystem.png" alt=""/>
+    <p><a href="https://github.com/ElectricArc-Yu/GD10Final/releases">View Document (Feishu Link)</a></p>
+</procedure>
+
+
 <procedure title="Personal Design Exercise - Referencing Final Fantasy XIV" collapsible="true" default-state="expanded">
     <img src="FF14PvPSDD.png" alt="System design document screenshot" />
     <!-- <a href="FF14PvPSDD-C.md">详细内容及分析思路 当前正在完善中</a> -->
@@ -64,31 +80,44 @@
 <procedure title="SLIME" collapsible="true" default-state="expanded">
     <p>3D platform act game, player play the slime and use the power of slime, I as the designer handle the design related work</p>
     <video src="SLIME.mp4" preview-src="SLIME.png"/>
-    <tip><a href="https://www.bilibili.com/video/BV14g4y1F7Lz">If the above video is unavailable, please check it on Bilibili</a></tip>
+    <note><a href="https://www.bilibili.com/video/BV14g4y1F7Lz">If the above video is unavailable, please check it on Bilibili</a></note>
 </procedure>
 
-<procedure collapsible="true" title="Projects Completed at Hunan Nuoxiyo Technology Co., Ltd." default-state="expanded">
-    <b>Radiation Survival: Nuclear Winter is Coming - Doomsday Bunker</b>
-    <p>Contributions: 1.0 & 2.0</p>
+<procedure collapsible="true" title="Projects in Hunan Nuoxiyo Technology Co., Ltd." default-state="expanded">
+    <procedure collapsible="true" title="Nuclear Survival" default-state="expanded">
+    <p>Led development of the 1.0 and 2.0 versions and long-term update strategy with independent systems and world-building logic.</p>
+    <p>Key Contributions:</p>
+    <list>
+    <li>Designed a fallout-inspired post-apocalyptic wasteland survival experience.</li>
+    <li>Designed a unique survival system with a focus on resource management and environmental hazards.</li>
+    <li>Designed progression systems for resource collection, enemy defense, weapon/mech crafting, and fortified base construction.</li>
+    <li>Designed gameplay systems, enemy AI & animations, and biomes. </li>
+    </list>
     <img src="Fallout_01.png" alt=""/>
     <img src="Fallout_02.png" alt=""/>
-    <p><a href="https://resource-minecraft.h5.163.com/#/detail?id=4664344300463689714&amp;channel=oppo">Project Release Address</a></p>
-    <p>--------------------------------------------------------</p>
-    <b>Horror Island Survival</b>
-    <p>Contributions: 1.0 and future update direction</p>
+    <p><a href="https://resource-minecraft.h5.163.com/#/detail?id=4664344300463689714">Project Release Address</a></p>
+    </procedure>
+    <procedure collapsible="true" title="Horror Isle" default-state="expanded">
+    <p>Led development of the 1.0 version and long-term update strategy with independent systems and world-building logic.</p>
+    <p>Key Contributions:</p>
+    <list>
+    <li>Design or conceptualized eight explorable islands with diverse biomes, architectural systems, and boss fight arenas.</li>
+    <li>Designed progression mechanics involving enemy elimination, equipment crafting, and sacrificial rituals to summon bosses.</li>
+    <li>Built narrative-driven mysteries tied to the main island's lore through environmental storytelling</li>
+    <li>Designed gameplay systems, enemy AI & animations, and biomes. </li>
+    </list>
     <img src="HorrorIsland_01.png" alt=""/>
     <img src="HorrorIsland_02.png" alt=""/>
     <img src="HorrorIsland_03.png" alt=""/>
-    <p><a href="https://resource-minecraft.h5.163.com/#/detail?id=4665488888721273907&amp;channel=oppo">Project Release Address</a></p>
-    <p>--------------------------------------------------------</p>
-    <b>Manlian: Lightning Hero - Rapid Attack</b>
-    <p>Contributions: Main body</p>
-    <p>This project involves the creation of 5 items, 5 skills, and their related effects</p>
+    <p><a href="https://resource-minecraft.h5.163.com/#/detail?id=4665488888721273907">Project Release Address</a></p>
+    </procedure>
+    <procedure collapsible="true" title="Misc." default-state="collapsed">
+    <tip>Lightning Hero</tip>
     <img src="Shandianxia.png" alt=""/>
-    <p><a href="https://resource-minecraft.h5.163.com/#/detail?id=4664383590833725456&amp;channel=oppo">Project Release Address</a></p>
+    <p><a href="https://resource-minecraft.h5.163.com/#/detail?id=4664383590833725456">Project Release Address</a></p>
     <p>--------------------------------------------------------</p>
-    <b>Pioneer Duel: Source - Slash - Main Pack</b>
-    <p>Contributions: 1.0 , subsequent free sub-pack</p>
+    <tip>Overwatch in minecraft</tip>
     <img src="Overwatch.png" alt=""/>
-    <p><a href="https://resource-minecraft.h5.163.com/#/detail?id=4662108906629006831&amp;channel=oppo">Project Release Address</a></p>
+    <p><a href="https://resource-minecraft.h5.163.com/#/detail?id=4662108906629006831">Project Release Address</a></p>
+    </procedure>>
 </procedure>
