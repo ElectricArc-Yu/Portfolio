@@ -18,13 +18,13 @@ for similar gameplay design in other MMORPGs.</p>
 </procedure>
 
 
-<procedure title="Personal Design Exercise - FF14 Mail System Analysis" collapsible="true" default-state="expanded">
+<procedure title="Personal Design Exercise - FF14 Mail System Analysis" collapsible="true" default-state="collapsed">
     <img src="MailSystem.png" alt=""/>
     <p><a href="https://github.com/ElectricArc-Yu/GD10Final/releases">View Document (Feishu Link)</a></p>
 </procedure>
 
 
-<procedure title="Personal Design Exercise - Referencing Final Fantasy XIV" collapsible="true" default-state="expanded">
+<procedure title="Personal Design Exercise - Referencing Final Fantasy XIV" collapsible="true" default-state="collapsed">
     <img src="FF14PvPSDD.png" alt="System design document screenshot" />
     <!-- <a href="FF14PvPSDD-C.md">详细内容及分析思路 当前正在完善中</a> -->
     <p>Download document: <resource src="../downloadable/ファイナルファンタジーXIVフロントライン新ルール企画書.pdf"></resource></p>
@@ -53,7 +53,7 @@ for similar gameplay design in other MMORPGs.</p>
     <a href="https://github.com/ElectricArc-Yu/GD10Final/releases">Download Playable Version</a>
 </procedure>
 
-<procedure title="VR Goldfish Catching" collapsible="true" default-state="expanded">
+<procedure title="VR Goldfish Catching" collapsible="true" default-state="collapsed">
     <p>VR sensory goldfish catching game, I handle the program related work</p>
     <img src="VRCatchThemAll.jpg"  alt=""/>
     <note> Due to large file size <p></p> Project had to be split into <b>3</b> files</note>
@@ -63,7 +63,7 @@ for similar gameplay design in other MMORPGs.</p>
     <step><resource src="../downloadable/LFS_Download/GoldFishScrooping/GoldFishScrooping.z02"></resource><p>MD5:a5fabf97eeb156274f19ec23397a5cca</p></step>
 </procedure>
 
-<procedure title="铲屎官也是官" collapsible="true" default-state="expanded">
+<procedure title="Chan Shi Ye Shi Guan" collapsible="true" default-state="expanded">
     <p>2D roguelike game which 3C like The Binding of Isaac, I as a developer handle the program related work</p>
     <img src="ChanShiGuanYeShiGuan.png"  alt=""/>
     <img src="CSYSG_01.png" alt=""/>
