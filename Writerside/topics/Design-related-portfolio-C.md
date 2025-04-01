@@ -112,27 +112,42 @@
 </procedure>
 
 <procedure collapsible="true" title="于 湖南诺汐游科技有限公司 完成的项目" default-state="expanded">
-    <b>辐射生存·核冬降临·末日地堡</b>
-    <p>参与制作部分： 本体1.0和2.0更新内容</p>
-    <img src="Fallout_01.png"  alt=""/>
-    <img src="Fallout_02.png"  alt=""/>
-    <p><a href="https://resource-minecraft.h5.163.com/#/detail?id=4664344300463689714&amp;channel=oppo">项目发行地址</a></p>
-    <p>--------------------------------------------------------</p>
-    <b>恐怖岛生存</b>
-    <p>参与制作部分： 本体1.0内容及未来更新大方向</p>
-    <img src="HorrorIsland_01.png"  alt=""/>
-    <img src="HorrorIsland_02.png"  alt=""/>
+    <procedure collapsible="true" title="辐射生存·核冬降临·末日地堡" default-state="expanded">
+    <p>作为策划领导开发了1.0和2.0版本以及具有独立系统和世界构建逻辑的长期更新策略。</p>
+    <p>关键贡献：</p>
+    <list>
+    <li>设计了一个受辐射启发的后启示录废土生存体验。</li>
+    <li>设计了一个独特的生存系统，重点关注资源管理和环境危害。</li>
+    <li>设计了资源收集、敌人防御、武器/机甲制造和加固基地建设的进展系统。</li>
+    <li>设计了游戏玩法系统、敌人AI和动画以及生物群落。</li>
+    </list>
+    <img src="Fallout_01.png" alt=""/>
+    <img src="Fallout_02.png" alt=""/>
+    <p><a href="https://resource-minecraft.h5.163.com/#/detail?id=4664344300463689714">Project Release Address</a></p>
+    </procedure>
+    <procedure collapsible="true" title="恐怖岛生存" default-state="expanded">
+    <p>作为策划领导开发了1.0版本和具有独立系统和世界构建逻辑的长期更新策略。</p>
+    <p>关键贡献：</p>
+    <list>
+    <li>设计或概念化了八个可探索的岛屿，具有多样的生物群落、建筑系统和Boss战斗场地。</li>
+    <li>设计了包括消灭敌人、装备制作和召唤首领的祭祀仪式在内的挑战路线。</li>
+    <li>建立了通过环境叙事与主岛的传说相关联的叙事驱动的谜题。</li>
+    <li>设计了游戏玩法系统、敌人AI和动画以及生物群落。</li>
+    </list>
+    <img src="HorrorIsland_01.png" alt=""/>
+    <img src="HorrorIsland_02.png" alt=""/>
     <img src="HorrorIsland_03.png" alt=""/>
-    <p><a href="https://resource-minecraft.h5.163.com/#/detail?id=4665488888721273907&amp;channel=oppo">项目发行地址</a></p>
-    <p>--------------------------------------------------------</p>
-    <b>『漫联』闪电英雄：急速出击</b>
-    <p>参与制作部分：本体</p>
-    <p>本项目涉及5件物品、5个技能及其背后的相关效果制作，同时为唯一参与的漫联项目</p>
+    <p><a href="https://resource-minecraft.h5.163.com/#/detail?id=4665488888721273907">Project Release Address</a></p>
+    </procedure>
+    <procedure collapsible="true" title="其他项目" default-state="collapsed">
+    <tip>『漫联』闪电英雄：急速出击</tip>
+    <video src="Lightning Hero.mp4" preview-src="LHCover.png"/>
     <img src="Shandianxia.png" alt=""/>
-    <p><a href="https://resource-minecraft.h5.163.com/#/detail?id=4664383590833725456&amp;channel=oppo">项目发行地址</a></p>
+    <p><a href="https://resource-minecraft.h5.163.com/#/detail?id=4664383590833725456">Project Release Address</a></p>
     <p>--------------------------------------------------------</p>
-    <b>先锋对决：源·劈-主包</b>
-    <p>参与制作部分：本体1.0 UI、部分玩法及后续OW角色移植</p>
+    <tip>先锋对决：源·劈-主包 及 部分DLC</tip>
+    <video src="OWMC.mp4" preview-src="OWMCCover.png"/>
     <img src="Overwatch.png" alt=""/>
-    <p><a href="https://resource-minecraft.h5.163.com/#/detail?id=4662108906629006831&amp;channel=oppo">项目发行地址</a></p>
+    <p><a href="https://resource-minecraft.h5.163.com/#/detail?id=4662108906629006831">Project Release Address</a></p>
+    </procedure>
 </procedure>

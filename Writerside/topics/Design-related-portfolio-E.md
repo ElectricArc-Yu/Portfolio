@@ -130,11 +130,13 @@ for similar gameplay design in other MMORPGs.</p>
     </procedure>
     <procedure collapsible="true" title="Misc." default-state="collapsed">
     <tip>Lightning Hero</tip>
+    <video src="Lightning Hero.mp4" preview-src="LHCover.png"/>
     <img src="Shandianxia.png" alt=""/>
     <p><a href="https://resource-minecraft.h5.163.com/#/detail?id=4664383590833725456">Project Release Address</a></p>
     <p>--------------------------------------------------------</p>
     <tip>Overwatch in minecraft</tip>
+    <video src="OWMC.mp4" preview-src="OWMCCover.png"/>
     <img src="Overwatch.png" alt=""/>
     <p><a href="https://resource-minecraft.h5.163.com/#/detail?id=4662108906629006831">Project Release Address</a></p>
-    </procedure>>
+    </procedure>
 </procedure>
