@@ -110,6 +110,7 @@ for similar gameplay design in other MMORPGs.</p>
     <li>Designed progression systems for resource collection, enemy defense, weapon/mech crafting, and fortified base construction.</li>
     <li>Designed gameplay systems, enemy AI & animations, and biomes. </li>
     </list>
+    <video src="FallOut.mp4" preview-src="FOCover.png"/>
     <img src="Fallout_01.png" alt=""/>
     <img src="Fallout_02.png" alt=""/>
     <p><a href="https://resource-minecraft.h5.163.com/#/detail?id=4664344300463689714">Project Release Address</a></p>
@@ -123,6 +124,7 @@ for similar gameplay design in other MMORPGs.</p>
     <li>Built narrative-driven mysteries tied to the main island's lore through environmental storytelling</li>
     <li>Designed gameplay systems, enemy AI & animations, and biomes. </li>
     </list>
+    <video src="HI.mp4" preview-src="KBDCover.png"/>
     <img src="HorrorIsland_01.png" alt=""/>
     <img src="HorrorIsland_02.png" alt=""/>
     <img src="HorrorIsland_03.png" alt=""/>

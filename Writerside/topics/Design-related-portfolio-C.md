@@ -121,6 +121,7 @@
     <li>设计了资源收集、敌人防御、武器/机甲制造和加固基地建设的进展系统。</li>
     <li>设计了游戏玩法系统、敌人AI和动画以及生物群落。</li>
     </list>
+    <video src="FallOut.mp4" preview-src="FOCover.png"/>
     <img src="Fallout_01.png" alt=""/>
     <img src="Fallout_02.png" alt=""/>
     <p><a href="https://resource-minecraft.h5.163.com/#/detail?id=4664344300463689714">Project Release Address</a></p>
@@ -134,6 +135,7 @@
     <li>建立了通过环境叙事与主岛的传说相关联的叙事驱动的谜题。</li>
     <li>设计了游戏玩法系统、敌人AI和动画以及生物群落。</li>
     </list>
+    <video src="HI.mp4" preview-src="KBDCover.png"/>
     <img src="HorrorIsland_01.png" alt=""/>
     <img src="HorrorIsland_02.png" alt=""/>
     <img src="HorrorIsland_03.png" alt=""/>
