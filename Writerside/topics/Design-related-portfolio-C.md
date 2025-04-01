@@ -34,6 +34,7 @@
         <li>负责游戏主体框架、玩法功能、UI API的设计与实现</li>
         <li>制定适合项目的美术资产合并流程</li>
         </list>
+        <video src="Illegal Assembly.mp4" preview-src="VideoCover.png"/>
         <img src="IllagelAssemblyLogo.PNG"  alt=""/>
         <p>首页展示</p>
         <img src="IA_06.png" alt=""/>

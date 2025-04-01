@@ -39,6 +39,7 @@ for similar gameplay design in other MMORPGs.</p>
     <li>Designed and implemented the main game framework, gameplay features, and UI APIs.</li>
     <li>Established an efficient asset integration pipeline tailored to the project’s needs.</li>
     </list>
+    <video src="Illegal Assembly.mp4" preview-src="VideoCover.png"/>
     <img src="IllagelAssemblyLogo.PNG"  alt=""/>
     <p>Display in Editor</p>
     <img src="IA_01.png" alt=""/>
