@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/xhtml-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/topic.v2.xsd"
+       title="FF14邮件系统拆解案" id="FF14邮件系统拆解案">
+
+    <warning>此文档为系统反推/拆解得到的策划案，以尽可能还原游戏内设计方式为主</warning>
+    <note>文档中部分内容已默认具有一些更上级的系统架构</note>
+    <chapter title="系统目的" id="SystemTarget">
+        <list>
+            <li>提供非即时性的玩家沟通及部分道具转移渠道</li>
+            <li>提供付费道具、活动道具的送达渠道</li>
+            <li>提供官方非即时性特殊信息、奖励物品送达渠道</li>
+        </list>
+    </chapter>
+    <chapter title="系统规则" id="SystemRules">
+        <list type="decimal">
+            <li>玩家只能向<b>同服务器</b>且<b>互为好友</b>的玩家发送邮件</li>
+            <li>玩家<b>不处于</b>玩家原服务器时，邮件系统功能将会受到限制，玩家将无法使用邮件系统的功能、
+                只能获取到关于未读邮件的信息，与邮差莫古力交互会提示LogMessage.csv:9401的报错信息</li>
+            <li>玩家只能够删除<b>无任何</b>附加道具的邮件</li>
+            <li>帮助中心消息依赖于邮件系统进行通知</li>
+            <li>玩家的邮件根据来源分为三类：好友、购物及奖励、GM，每一类具有<b>独立</b>的邮件、附件道具上限，如下表：</li>
+        </list>
+        <table style="both" column-width="fixed">
+            <tr>
+                <td></td>
+                <td>好友</td>
+                <td>购物及奖励</td>
+                <td>GM</td>
+            </tr>
+            <tr>
+                <td>邮件上限</td>
+                <td>100</td>
+                <td>20</td>
+                <td>10</td>
+            </tr>
+            <tr>
+                <td>附件道具上限</td>
+                <td>20</td>
+                <td>100</td>
+                <td>50</td>
+            </tr>
+        </table>
+        <note>邮件附件中的金币不计入附件道具上限</note>
+    </chapter>
+    <chapter title="系统解锁" id="SystemUnlock">
+        <list type="bullet">
+            <li>邮件系统随玩家角色建立自动解锁</li>
+            <li>玩家在完成主线任务“<b>冒险者入门</b>”后解锁邮差莫古力、莫古信箱、贤王信箱的交互</li>
+        </list>
+    </chapter>
+    <chapter title="系统受限" id="SystemLimit">
+        <table style="both">
+            <tr>
+                <td><b>所处状态</b></td>
+                <td><b>限制内容</b></td>
+                <td><b>数据获取及表现</b></td>
+            </tr>
+            <tr>
+                <td>跨服务器状态</td>
+                <td rowspan="2"><list type="decimal">
+                    <li>无法使用帮助中心以外的邮件系统</li>
+                    <li>禁止玩家进入邮件页面</li>
+                    <li>仅可收到有未读邮件的提示</li>
+                </list></td>
+                <td rowspan="2"><list type="decimal">
+                    <li>收到邮件的通知将以红色图标标识</li>
+                    <li>登录时获取GM邮件外的数据</li>
+                    <li>GM邮件会在收到时立即提示</li>
+                </list></td>
+            </tr>
+            <tr>
+                <td>跨数据中心状态</td>
+            </tr>
+        </table>
+    </chapter>
+    <chapter title="系统入口" id="SystemEntrance">
+        <table style="header-column" column-width="fixed">
+            <tr>
+                <td>NPC</td>
+                <td>邮差莫古力</td>
+            </tr>
+            <tr>
+                <td>可交互对象</td>
+                <td><list>
+                    <li>蘑菇信箱</li>
+                    <li>贤王信箱</li>
+                </list></td>
+            </tr>
+            <tr>
+                <td>系统菜单</td>
+                <td>帮助中心</td>
+            </tr>
+        </table>
+    </chapter>
+</topic>

@@ -1,6 +1,6 @@
-# Yu Chenhaoran's Designer portfolio
+# Designer portfolio
 
-<procedure title="System Design Analysis: Field Operations in MMORPGs" collapsible="true" default-state="expanded">
+<procedure title="System Design Analysis: Field Operations in MMORPGs" collapsible="true" default-state="collapsed">
     <note>
     <p>Abstract</p>
     <p>This article aims to explore the large-scale exploration gameplay in Final Fantasy XIV, 

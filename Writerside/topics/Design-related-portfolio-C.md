@@ -1,10 +1,10 @@
-# 于陈浩然策划相关作品集
+# 策划相关作品集
 <tip><p>策划作品集</p></tip>
 
 [//]: # (<note><a href="游戏经验.md">跳转游戏经验</a></note>)
 [//]: # (<p>那我确实是没办法在面试的时候解释这么多东西，这文档我写了28页。</p>)
 
-<procedure title="玩法设计分析：MMORPG中的特殊场景探索玩法设计" collapsible="true" default-state="expanded">
+<procedure title="玩法设计分析：MMORPG中的特殊场景探索玩法设计" collapsible="true" default-state="collapsed">
     <note>
     <p>摘要</p>
     <p>本文旨在探讨《最终幻想XIV》中的大规模探索型副本玩法，并重点剖析云冠群岛探索、禁地优雷卡以及天佑女王三个系列的设计理念与实现机制。通过对比分析上述三个系列的玩法设计、关卡设计、奖励机制以及终局内容设计，总结其在特殊场景探索玩法方面的经验与教训。研究结果表明，此类副本不仅丰富了玩家的游戏体验，促进了玩家间的社交互动，更通过持续的内容更新与优化，维持了玩法的长期吸引力。本文的研究结论可为其他MMORPG的同类玩法设计提供借鉴。</p>
@@ -14,12 +14,12 @@
 </procedure>
 
 
-<procedure title="个人策划练习 - FF14邮件系统拆解案" collapsible="true" default-state="expanded">
+<procedure title="个人策划练习 - FF14邮件系统拆解案" collapsible="true" default-state="collapsed">
     <img src="MailSystem.png" alt=""/>
     <p><a href="https://github.com/ElectricArc-Yu/GD10Final/releases">查看文档（飞书链接） </a></p>
 </procedure>
 
-<procedure title="个人策划练习 - 参考最终幻想14" collapsible="true" default-state="expanded">
+<procedure title="个人策划练习 - 参考最终幻想14" collapsible="true" default-state="collapsed">
     <img src="FF14PvPSDD.png" alt="System design document screenshot" />
     <!-- <a href="FF14PvPSDD-C.md">详细内容及分析思路 当前正在完善中</a> -->
     <p>下载文档 ： <resource src="../downloadable/ファイナルファンタジーXIVフロントライン新ルール企画書.pdf"></resource></p>
